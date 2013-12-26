@@ -1,0 +1,4 @@
+RewriteEngine on 
+RewriteRule .*d(2013.*) $1.rec.txt
+
+
